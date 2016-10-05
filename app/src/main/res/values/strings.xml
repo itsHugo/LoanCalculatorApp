@@ -23,12 +23,12 @@
     <string name="totalInterest">Total Interest</string>
 
     <string name="help">Help</string>
+    <string name="new_main">Open MainActivity(Programatically)</string>
 
     <string name="howTo">How to use calculator</string>
 
     <string name="hint4">Enter loan amount here</string>
     <string name="hint5">Enter the number of years</string>
-
 
 
 </resources>
